@@ -1,0 +1,22 @@
+﻿body {
+    font-family: 'Segoe UI',helvetica,Arial,sans-serif;
+    color: red;
+}
+header {
+    font-family: 'Segoe UI',helvetica,Arial,sans-serif;
+    font-size: large;
+}
+h1 {
+    font-family: 'Copperplate Gothic';
+    font-size:0.5em;
+    color: red;
+    header {
+    padding-bottom: 10px;
+    border-buttom: 2px dotted blue;
+    border-bottom-color: brown;
+    margin-bottom: 10px;
+}
+section {
+    padding-bottom: 5px;
+    border-bottom: 1px dotted gray;
+}
